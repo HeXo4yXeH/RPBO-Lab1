@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\RPBO Lab1\RPBO Lab1\main.cpp(45,27): warning C4244: =: преобразование "float" в "unsigned short", возможна потеря данных
+  RPBO Lab1.vcxproj -> D:\RPBO Lab1\Debug\RPBO Lab1.exe
